@@ -30,7 +30,7 @@
     "instagram-private-api": "^1.45.2",
     "instagram_mqtt": "^0.2.16",
     "jimp": "^0.16.0",
-    "node-fetch": "^2.6.7"
+    "node-fetch": "^2.6.11"
   },
   "devDependencies": {
     "discord.js-docgen": "discordjs/docgen",
